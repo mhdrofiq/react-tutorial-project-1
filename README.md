@@ -6,4 +6,4 @@ This is a static webpage made using ReactJs. The purpose of this was to learn ab
 
 A preview of the page is shown below.
 
-![Preview image](https://github.com/mhdrofiq/react-tutorial-project-1/preview_project1.png)
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-1/blob/master/preview_project1.png)
